@@ -2,17 +2,18 @@
 # 微信公众号：凡事有券 
 # 公众号配置
 # 公众号appId
-"app_id": "wx1e8f95878a126604",
+"app_id": "wxc9fdfa255c9b3ad6",
 # 公众号appSecret
-"app_secret": "0c687e59e546c7190ca02c1599d618ab",
+"app_secret": "7ee3473aafcbf23860b4f1deb9c30ff4",
 # 模板消息id
-"template_id": "McWd9gTpysCQGVw0qKmwo6L1gi5KDJ2XyGTq7Z0gwMM",
+"template_id": "rtMvPiIebPzb-OyQvDlSF9nodK6MGHud_NJw4BfGzyY",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oul3a5_E3JnnrFXOdw1OjntUubkI"],
+"user": ["og9q753mq5cvobPPXIprP2Q2nszo"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "d1c358c2d5cb4347b4d40f2ce29379e1",
+"weather_key": "	
+d1c358c2d5cb4347b4d40f2ce29379e1",
 # 天行数据apikey
 "tian_api": "85da6ebc1ffe6445c18469747ef5c71a",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
